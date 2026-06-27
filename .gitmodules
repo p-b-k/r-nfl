@@ -1,0 +1,3 @@
+[submodule "nflverse-data"]
+	path = nflverse-data
+	url = git@github.com:nflverse/nflverse-data.git
